@@ -1,0 +1,14 @@
+faiss-cpu==1.9.0
+kiwipiepy==0.20.1
+kiwipiepy_model==0.20.0
+langchain==0.3.7
+langchain-community==0.3.5
+langchain-core==0.3.15
+langchain-openai==0.2.6
+langchain-teddynote==0.3.40
+langchain-text-splitters==0.3.2
+langsmith==0.1.140
+lark==1.2.2
+lark-parser==0.12.0
+redis==5.2.0
+streamlit==1.40.0
