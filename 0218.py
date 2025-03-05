@@ -26,10 +26,6 @@ import redis
 import warnings
 import os
 
-# Redis 서버 구동
-# docker run -d -p 6379:6379 -p 8001:8001 redis/redis-stack:latest
-REDIS_URL = "redis://localhost:6379/0"
-
 # 경고 메시지 무시
 warnings.filterwarnings("ignore")
 
