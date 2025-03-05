@@ -26,6 +26,8 @@ import redis
 import warnings
 import os
 
+REDIS_URL = "redis://localhost:6379/0"
+
 # 경고 메시지 무시
 warnings.filterwarnings("ignore")
 
